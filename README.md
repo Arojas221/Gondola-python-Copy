@@ -1,4 +1,4 @@
-# (Este proyecto Le pertenece al grupo santoto_code)
+# (Este proyecto Le pertenece al grupo usta_code)
 
 # Scapder Vision — Prototipo
 
