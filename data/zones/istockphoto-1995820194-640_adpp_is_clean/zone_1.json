@@ -1,0 +1,24 @@
+{
+    "zone_id": "zone_1",
+    "video_id": "istockphoto-1995820194-640_adpp_is_clean",
+    "name": "gondola 1",
+    "polygon": [
+        [
+            461.35,
+            392.19
+        ],
+        [
+            333.22,
+            331.77
+        ],
+        [
+            398.74,
+            58.78
+        ],
+        [
+            458.43,
+            130.12
+        ]
+    ],
+    "zone_type": "product"
+}

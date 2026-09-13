@@ -1,0 +1,32 @@
+{
+    "zone_id": "zone_1",
+    "video_id": "HD CCTV Camera video 3MP 4MP iProx CCTV HDCCTVCameras.net retail store_clean",
+    "name": "Libroa y descuentos",
+    "polygon": [
+        [
+            261.25,
+            163.86
+        ],
+        [
+            258.58,
+            98.94
+        ],
+        [
+            330.62,
+            78.49
+        ],
+        [
+            560.07,
+            192.32
+        ],
+        [
+            550.29,
+            267.03
+        ],
+        [
+            479.14,
+            315.94
+        ]
+    ],
+    "zone_type": "product"
+}

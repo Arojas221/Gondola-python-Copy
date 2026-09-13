@@ -1,0 +1,24 @@
+{
+    "zone_id": "zone_3",
+    "video_id": "HD CCTV Camera video 3MP 4MP iProx CCTV HDCCTVCameras.net retail store_clean",
+    "name": "Tenderos",
+    "polygon": [
+        [
+            19.62,
+            157.2
+        ],
+        [
+            128.57,
+            122.11
+        ],
+        [
+            232.91,
+            336.32
+        ],
+        [
+            91.64,
+            384.34
+        ]
+    ],
+    "zone_type": "staff"
+}

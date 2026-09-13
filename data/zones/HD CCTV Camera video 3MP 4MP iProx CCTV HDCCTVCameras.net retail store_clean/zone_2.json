@@ -1,0 +1,24 @@
+{
+    "zone_id": "zone_2",
+    "video_id": "HD CCTV Camera video 3MP 4MP iProx CCTV HDCCTVCameras.net retail store_clean",
+    "name": "Varios",
+    "polygon": [
+        [
+            380.12,
+            3.92
+        ],
+        [
+            826.41,
+            51.87
+        ],
+        [
+            783.07,
+            298.06
+        ],
+        [
+            377.36,
+            86.91
+        ]
+    ],
+    "zone_type": "product"
+}

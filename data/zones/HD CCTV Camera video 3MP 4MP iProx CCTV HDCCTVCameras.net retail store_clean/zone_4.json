@@ -1,0 +1,28 @@
+{
+    "zone_id": "zone_4",
+    "video_id": "HD CCTV Camera video 3MP 4MP iProx CCTV HDCCTVCameras.net retail store_clean",
+    "name": "Papeleria varia",
+    "polygon": [
+        [
+            182.99,
+            4.67
+        ],
+        [
+            303.94,
+            2.89
+        ],
+        [
+            308.38,
+            84.71
+        ],
+        [
+            248.8,
+            98.94
+        ],
+        [
+            181.21,
+            66.92
+        ]
+    ],
+    "zone_type": "product"
+}

@@ -1,0 +1,24 @@
+{
+    "zone_id": "zone_2",
+    "video_id": "nombre 2_clean",
+    "name": "gondola 2",
+    "polygon": [
+        [
+            538.51,
+            39.86
+        ],
+        [
+            640.42,
+            84.99
+        ],
+        [
+            592.38,
+            157.79
+        ],
+        [
+            507.94,
+            137.4
+        ]
+    ],
+    "zone_type": "product"
+}

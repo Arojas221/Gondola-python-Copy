@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/logs/
+data/events/
+data/snapshots/
+.vscode/
+
+# Base local de eventos: se regenera al analizar y crece con cada corrida.
+# Los archivos -wal/-shm son de SQLite en modo WAL.
+data/*.db
+data/*.db-wal
+data/*.db-shm
